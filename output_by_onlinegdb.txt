@@ -1,0 +1,5 @@
+1:member        2:member        3:member        4:member        5:member        6:member        7:member        8:member
+3:member loop repeat already known by creator
+3 is the looping element found by function
+Loop in between 8 and 3
+6 is length of loop calculated
